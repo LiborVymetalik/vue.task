@@ -11,7 +11,7 @@
 import ListPerson from '@/components/ListPerson.vue'
 
 export default {
-  name: 'Home',
+  name: 'App',
   components: {
     ListPerson
   }
